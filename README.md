@@ -13,7 +13,7 @@
   Simpan file gambar di repo ini (misal: assets/banner.png) agar link tidak rusak.
 -->
 <img
-  src="assets/banner.png"
+  img src="./assets/banner.png" alt="Banner Profil" width="100%"
   alt="Minecraft Landscape Banner"
   width="100%"
 />
