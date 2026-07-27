@@ -1,95 +1,116 @@
+<!--
+  =====================================================================
+  GitHub Profile README
+  Theme  : Minecraft Aesthetic
+  Guide  : style_guide.md + prd.md
+  =====================================================================
+-->
+
 <div align="center">
 
-# `sirilian21`
+<!--
+  Ganti URL gambar di bawah dengan banner piksel Minecraft milikmu.
+  Simpan file gambar di repo ini (misal: assets/banner.png) agar link tidak rusak.
+-->
+<img
+  src="assets/banner.png"
+  alt="Minecraft Landscape Banner"
+  width="100%"
+/>
 
-`SYSTEM.STATUS: STUDENT` `//` `FOCUS: WEB_DESIGN` `//` `MODE: LEARNING`
-
-<!-- Ganti src di bawah dengan banner yang sudah di-hosting di dalam repository ini, contoh: ./assets/banner.png -->
-<img src="./assets/banner.png" alt="banner" width="100%">
-
-</div>
-
----
-
-## `$ whoami`
-
-```bash
-role        : Student
-focus       : Web Design / Frontend Fundamentals
-status      : Learning
-build       : in_progress
+```
+> Hello, World. / System.out.println("Welcome to my repo.");
 ```
 
-> Catatan singkat, bukan bio. Detail lanjutan ada di bawah.
+</div>
 
 ---
 
-## About
+## WHOAMI
 
-| Field | Value |
-| :--- | :--- |
-| Peran | `Student` |
-| Fokus Belajar | `Website Design` |
-| Metode | Studi kasus proyek kecil + eksplorasi repository open-source |
-| Prioritas Saat Ini | Konsistensi struktur `HTML`, kerapian `CSS`, dasar alur kerja `Git` |
+> `[Isi Nama Anda]` — `[Peran/Fokus: Fullstack Developer | Backend Engineer | Student]`
+
+Fokus saat ini pada arsitektur layanan backend dan pengembangan antarmuka berbasis komponen.
+Tertarik pada sistem terdistribusi, optimasi query database, dan tooling DevOps.
 
 ---
 
-## Tech Stack
+## TECH STACK
 
-<!-- Badge di bawah memakai palet Style Guide: bg #1D1D21, aksen hijau #5A8231, teks #E0E0E0 -->
+### Frontend
 
-| Kategori | Stack |
-| :--- | :--- |
-| Markup / Style | ![HTML5](https://img.shields.io/badge/HTML5-5A8231?style=for-the-badge&logo=html5&logoColor=E0E0E0&labelColor=1D1D21) ![CSS3](https://img.shields.io/badge/CSS3-5A8231?style=for-the-badge&logo=css3&logoColor=E0E0E0&labelColor=1D1D21) |
-| Script | ![JavaScript](https://img.shields.io/badge/JavaScript-5C4033?style=for-the-badge&logo=javascript&logoColor=E0E0E0&labelColor=1D1D21) |
-| Version Control | ![Git](https://img.shields.io/badge/Git-3B82F6?style=for-the-badge&logo=git&logoColor=E0E0E0&labelColor=1D1D21) ![GitHub](https://img.shields.io/badge/GitHub-3B82F6?style=for-the-badge&logo=github&logoColor=E0E0E0&labelColor=1D1D21) |
+<kbd>HTML5</kbd> <kbd>CSS3</kbd> <kbd>JavaScript</kbd> <kbd>React</kbd> <kbd>TypeScript</kbd>
 
-<!-- Kolom Stack di atas diasumsikan dari fokus "Website Design". Ganti sesuai tool yang benar-benar dipakai. -->
+### Backend
+
+<kbd>Node.js</kbd> <kbd>Express</kbd> <kbd>Python</kbd>
+
+### Database
+
+<kbd>PostgreSQL</kbd> <kbd>MySQL</kbd> <kbd>Redis</kbd>
+
+### DevOps & Tools
+
+<kbd>Git</kbd> <kbd>Docker</kbd> <kbd>Linux</kbd> <kbd>VS Code</kbd>
+
+> Ganti atau tambahkan `<kbd>` sesuai stack aktualmu.
 
 ---
 
-## Stats
+## GITHUB ANALYTICS
+
+<!--
+  Ganti "USERNAME" dengan username GitHub kamu di semua URL di bawah.
+  Parameter warna disesuaikan dengan palet Minecraft dari style guide:
+    bg_color    = 1D1D21  (Obsidian)
+    title_color = 5A8231  (Grass Green)
+    text_color  = E0E0E0  (Stone)
+    icon_color  = 5A8231
+    border_color= 5C4033  (Dirt Brown)
+-->
 
 <div align="center">
 
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=sirilian21&show_icons=true&hide_border=true&bg_color=1D1D21&title_color=5A8231&text_color=E0E0E0&icon_color=3B82F6)
+<img
+  height="160"
+  src="https://github-readme-stats.vercel.app/api?username=USERNAME&show_icons=true&theme=default&bg_color=1D1D21&title_color=5A8231&text_color=E0E0E0&icon_color=5A8231&border_color=5C4033&hide_border=false&count_private=true"
+  alt="GitHub Stats"
+/>
 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=sirilian21&layout=compact&hide_border=true&bg_color=1D1D21&title_color=5A8231&text_color=E0E0E0)
+<img
+  height="160"
+  src="https://github-readme-stats.vercel.app/api/top-langs/?username=USERNAME&layout=compact&bg_color=1D1D21&title_color=5A8231&text_color=E0E0E0&border_color=5C4033&hide_border=false"
+  alt="Top Languages"
+/>
 
 </div>
 
 ---
 
-## Featured Project
+## FEATURED PROJECTS
 
-| Proyek | Deskripsi | Stack | Link |
-| :--- | :--- | :--- | :--- |
-| `Website Design` | Rancangan antarmuka web statis dengan struktur layout modular. | `HTML` `CSS` | [Repository](#) |
+| Repositori | Deskripsi | Stack |
+| :--- | :--- | :--- |
+| [`nama-proyek-1`](https://github.com/USERNAME/nama-proyek-1) | Deskripsi singkat fungsi utama proyek. | `Node.js` `PostgreSQL` |
+| [`nama-proyek-2`](https://github.com/USERNAME/nama-proyek-2) | Deskripsi singkat fungsi utama proyek. | `React` `TypeScript` |
+| [`nama-proyek-3`](https://github.com/USERNAME/nama-proyek-3) | Deskripsi singkat fungsi utama proyek. | `Python` `Docker` |
 
-<!-- Ganti "#" pada kolom Link dengan URL repository proyek yang sebenarnya. -->
-
----
-
-## Contact
-
-<div align="center">
-
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-3B82F6?style=for-the-badge&logo=linkedin&logoColor=E0E0E0&labelColor=1D1D21)](LINKEDIN_URL)
-[![Email](https://img.shields.io/badge/Email-3B82F6?style=for-the-badge&logo=gmail&logoColor=E0E0E0&labelColor=1D1D21)](mailto:EMAIL_ANDA)
-[![Twitter](https://img.shields.io/badge/Twitter-3B82F6?style=for-the-badge&logo=x&logoColor=E0E0E0&labelColor=1D1D21)](TWITTER_URL)
-
-</div>
-
-<!-- Ganti LINKEDIN_URL, EMAIL_ANDA, dan TWITTER_URL dengan tautan aktual. -->
+> Kosongkan atau hapus baris jika proyek belum ada.
 
 ---
 
+## CONTACT
+
+| Platform | Handle / URL |
+| :--- | :--- |
+| LinkedIn | [linkedin.com/in/USERNAME](https://linkedin.com/in/USERNAME) |
+| Email | `yourname@domain.com` |
+| Twitter / X | [@USERNAME](https://twitter.com/USERNAME) |
+
+---
+
 <div align="center">
 
-```bash
-connection_status : online
-awaiting_input ...
-```
+![Profile Views](https://komarev.com/ghpvc/?username=USERNAME&color=5A8231&style=flat-square&label=profile+views)
 
 </div>
