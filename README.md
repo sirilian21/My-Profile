@@ -28,7 +28,7 @@
 
 ## WHOAMI
 
-> `[Isi Nama Anda]` — `[Peran/Fokus: Fullstack Developer | Backend Engineer | Student]`
+> `[Sirilian21]` — `[Peran/Fokus: Student]`
 
 Fokus saat ini pada arsitektur layanan backend dan pengembangan antarmuka berbasis komponen.
 Tertarik pada sistem terdistribusi, optimasi query database, dan tooling DevOps.
